@@ -18,3 +18,11 @@ strategies, and high-performance I/O.
 - Energy Efficiency and Sustainability: AI-enhanced power management, green computing
 strategies, and efficient workload scheduling.
 
+# Important Deadlines
+Paper submission due date: August 8, 2025 Anywhere on Earch (AoE)
+
+Author notification: September 5, 2025
+
+Camera-ready paper due date: September 26, 2025
+
+Post workshop slides and outcomes online: November 24, 2025
