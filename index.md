@@ -29,15 +29,21 @@ Post workshop slides and outcomes online: November 24, 2025
 
 # Organizers (Contact us)
 Gokcen Kestor (co-chair)
+
 Barcelona Supercomputing Center, Spain
+
 gokcen.kestor@bsc.es
 
 Seyong Lee (co-chair)
+
 Oak Ridge National Laboratory, USA
+
 lees2@ornl.gov
 
 Pedro Valero-Lara (co-chair)
+
 Oak Ridge National Laboratory, USA
+
 valerolarap@ornl.gov
 
 
