@@ -29,21 +29,53 @@ Post workshop slides and outcomes online: November 24, 2025
 
 # Organizers (Contact us)
 Gokcen Kestor (co-chair)
-
 Barcelona Supercomputing Center, Spain
-
 gokcen.kestor@bsc.es
 
 Seyong Lee (co-chair)
-
 Oak Ridge National Laboratory, USA
-
 lees2@ornl.gov
 
 Pedro Valero-Lara (co-chair)
-
 Oak Ridge National Laboratory, USA
-
 valerolarap@ornl.gov
 
+# Program Committee
+Wenqian Dong, Oregon State University
+
+Murali Krishna Emani, Argonne national laboratory
+
+Mohamed Ibrahim Ghenai, CERFACS
+
+Ali Jannesari,  Iowa State University
+
+Geonhwa Jeong, META
+
+Dong Li, UC Merced
+
+Guray Ozen, Google, USA 
+
+Ivy Peng, KTH Royal Institute of Technology
+
+Zhen Peng, Pacific Northwest National Laboratory
+
+Jie Ren, William and Marry
+
+Catherine Schuman, The University of Tennessee Knoxville
+
+# Manuscript Submission
+Authors are invited to submit original, unpublished research and experiential papers.
+Papers should be at least 5 pages and up to 6 pages in length, which exclude references and appendix.
+All submissions should be formatted according to the ACM proceedings template (two-column, US letter size):
+https://www.acm.org/publications/proceedings-template (use the "sigconf" option in the ACM LaTeX template).
+
+Please submit papers through the Supercomputing Linkings site:
+https://submissions.supercomputing.org
+
+Submitted papers will be double-blind peer-reviewed by at least 3 committee members, and at least one author of an accepted paper must register for and present the paper at the workshop.
+
+Authors may contact the workshop organizers for more information.
+
+# Proceedings
+All accepted papers will be published in the SC25 Workshop Proceedings.
 
