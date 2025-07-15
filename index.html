@@ -13,8 +13,12 @@ body, html {
   
 .bgimg {
   background: url("exhetAI_image.png") no-repeat center center;
-  background-size: cover;
-  height: 100vh; /* full viewport height */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black; /* fallback in case image doesn't load */
+  height: 40vh; /* 40% of viewport height – adjusts based on screen */
+  max-height: 500px; /* prevents it from becoming too large on big screens */
+  min-height: 250px; /* ensures enough visibility on small phones */
   position: relative;
   z-index: -10;
 }
@@ -52,9 +56,12 @@ body, html {
   
 <!-- Header with image -->
 <header class= "bgimg w3-display-container w3-grayscale-min" id="home">
-  <div class="w3-display-middle w3-center">
+  <!-- <div class="w3-display-middle w3-center">
     <span class="w3-text-white" style="font-size:50px">ExHetAI: The Workshop on ExHetAI'25: Workshop on Extreme Heterogeneity and AI Convergence in HPC</span>
-  </div>
+  </div> -->
+  <div class="w3-display-middle w3-center" style="background: rgba(0,0,0,0.5); padding: 10px;">
+  <span class="w3-text-white" style="font-size: 3vw;">ExHetAI: Workshop on Extreme Heterogeneity and AI Convergence in HPC</span>
+</div>
 </header>
 
 
